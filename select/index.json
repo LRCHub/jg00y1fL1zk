@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "終わりで始まり",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T19:29:41.136046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終わりで始まり",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/01_終わりで始まり_amazarashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "終わりで始まり",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_終わりで始まり_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終わりで始まり",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_終わりで始まり_amazarashi.txt"
+    }
+  ]
+}
